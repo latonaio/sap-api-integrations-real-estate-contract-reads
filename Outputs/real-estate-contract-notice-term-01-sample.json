@@ -1,0 +1,39 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L174",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractNoticeTerm",
+	"level": "INFO",
+	"message": [
+		{
+			"InternalRealEstateNumber": "IS00100000000",
+			"RETermType": "1020",
+			"RETermNumber": "",
+			"RENoticeRule": "",
+			"RENoticeSequenceNo": "0",
+			"RETermName": "<No Period of Notice>",
+			"RENoticeType": "",
+			"RENoticeProcedure": "",
+			"RENoticeGivingParty": "",
+			"RENoticeRuleType": "",
+			"RENoticeRuleDescription": "",
+			"RETermPeriodInYears": "0",
+			"RETermPeriodInMonths": "0",
+			"RETermPeriodInDays": "0",
+			"REPeriodEndRhythmType": "",
+			"RENoticePeriodInMonths": "0",
+			"RENoticePeriodInWeeks": "0",
+			"RENoticePeriodInDays": "0",
+			"RENoticeGracePeriod": "0",
+			"REGracePeriodCalOrWorkDays": "0",
+			"RENoticePeriodCalendar": "",
+			"RENoticeYear": "0",
+			"RENoticeMonth": "0",
+			"RENoticeDay": "0",
+			"RENoticeReceiptYear": "0",
+			"RENoticeReceiptMonth": "0",
+			"RENoticeReceiptDay": "0",
+			"RENoticeRcptCalOrWorkDays": "0",
+			"RENoticeReceiptCalendar": ""
+		}
+	],
+	"time": "2022-01-23T14:11:09.038252+09:00"
+}

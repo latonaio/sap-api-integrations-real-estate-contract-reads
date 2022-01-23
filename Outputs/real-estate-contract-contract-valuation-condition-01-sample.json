@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L438",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractValuationCondition",
+	"level": "INFO",
+	"message": [
+		{
+			"InternalRealEstateNumber": "IS00100000002",
+			"RETermNumber": "1",
+			"ValidityStartEndDateValue": "0000000099991231",
+			"REConditionType": "IM10",
+			"REConditionValidityStartDate": "2017-08-31",
+			"REExtConditionPurpose": "YA",
+			"REStatusObjectCalculation": "J400100000004",
+			"RETermName": "United States Generally Accepted Accounting Principles OL",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "9999-12-31",
+			"REConditionValidityEndDate": "9999-12-31",
+			"REValuationCndnProperty": "A",
+			"REValuationCndnConsdtn": "F",
+			"REIsValuationCndnConsdtn": true,
+			"REValuationCndnSharePercent": 100,
+			"REValuationCndnShareAbsltAmt": 0,
+			"REValuationCurrency": "USD",
+			"REValuationCndnStatus": "C",
+			"REInfoText": ""
+		}
+	],
+	"time": "2022-01-23T14:35:42.905969+09:00"
+}

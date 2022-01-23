@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L372",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractRenewalTerm",
+	"level": "INFO",
+	"message": [
+		{
+			"InternalRealEstateNumber": "IS00100000003",
+			"RETermType": "1010",
+			"RETermNumber": "",
+			"RERenewalType": "2",
+			"RERenewalSequenceNumber": "0",
+			"RERenewalRuleType": "O",
+			"RETermName": "<Individuelle Verlängerungsregel>",
+			"RERenewalRule": "",
+			"REAutomaticRenewalType": "",
+			"RENumberOfRenewals": "1",
+			"RERenewalPeriodInYears": "0",
+			"RERenewalPeriodInMonths": "6",
+			"RERenewalPeriodInDays": "0",
+			"RERenewalRoundingDateRule": "",
+			"RENotificationPeriodInYears": "0",
+			"RENotificationPeriodInMonths": "6",
+			"RENotificationPeriodInWeeks": "0",
+			"RENotificationPeriodInDays": "0",
+			"RENotificationRoundingDateRule": ""
+		}
+	],
+	"time": "2022-01-23T14:30:53.404744+09:00"
+}

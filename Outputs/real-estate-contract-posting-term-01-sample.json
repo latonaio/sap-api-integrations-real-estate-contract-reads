@@ -1,0 +1,29 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L240",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractAssignmentTerm",
+	"level": "INFO",
+	"message": [
+		{
+			"InternalRealEstateNumber": "IS00100000000",
+			"RETermType": "1120",
+			"RETermNumber": "",
+			"ValidityStartEndDateValue": "0000000099991231",
+			"ValidityStartDate": "",
+			"ValidityEndDate": "9999-12-31",
+			"RETermName": "<Standard>",
+			"BusinessArea": "",
+			"ProfitCenter": "YB110",
+			"REStatusObject": "",
+			"TaxJurisdiction": "",
+			"Fund": "",
+			"FundsCenter": "",
+			"CommitmentItem": "",
+			"FunctionalArea": "YB99",
+			"BudgetPeriod": "",
+			"ControllingArea": "A000",
+			"TaxCalculationProcedure": "0TXD",
+			"FinancialManagementArea": ""
+		}
+	],
+	"time": "2022-01-23T14:15:38.064077+09:00"
+}

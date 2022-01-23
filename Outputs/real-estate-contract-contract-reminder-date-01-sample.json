@@ -1,0 +1,28 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L306",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractReminderDate",
+	"level": "INFO",
+	"message": [
+		{
+			"InternalRealEstateNumber": "IS00100000000",
+			"REReminderNumber": "10",
+			"REReminderDate": "2019-12-01",
+			"REReminderRule": "P01",
+			"REReminderReason": "Y004",
+			"CreationDate": "2019-10-22",
+			"CreationTime": "12:05:59",
+			"RESourceOfCreation": "",
+			"LastChangeDate": "",
+			"LastChangeTime": "00:00:00",
+			"RESourceOfChange": "",
+			"Responsible": "CB9980000036",
+			"REReminderWrkflwDate": "",
+			"REReminderIsDone": false,
+			"REReminderIsFix": false,
+			"REReminderIsWrkflwSend": false,
+			"TextObjectKey": "IS00100000000#20191201#0010",
+			"REReminderInfoText": ""
+		}
+	],
+	"time": "2022-01-23T14:25:12.715588+09:00"
+}

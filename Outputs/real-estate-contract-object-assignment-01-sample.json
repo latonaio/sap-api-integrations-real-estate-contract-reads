@@ -1,0 +1,34 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-real-estate-contract-reads/SAP_API_Caller/caller.go#L207",
+	"function": "sap-api-integrations-real-estate-contract-reads/SAP_API_Caller.(*SAPAPICaller).ContractObjectAssignment",
+	"level": "INFO",
+	"message": [
+		{
+			"REStatusObjectSource": "IS10101200000000000",
+			"REObjectAssignmentType": "10",
+			"REStatusObjectTarget": "J400100000057",
+			"ValidityStartEndDateValue": "2019010199991231",
+			"InternalRealEstateNumber": "IS00100000000",
+			"ValidityStartDate": "2019-01-01",
+			"ValidityEndDate": "9999-12-31",
+			"REObjectTypeTarget": "J4",
+			"REOnlyInfoAssgmt": false,
+			"REStatusObjectSourceIsArchived": false,
+			"REGenerationType": "",
+			"REIsMainAsset": false,
+			"REAssignmentHasMultiple": false,
+			"REObjectPossessionStartDate": "",
+			"REObjectPossessionEndDate": "",
+			"REGroupNumber": "0",
+			"REObjectGroupName": "",
+			"REContractSubjectNumber": "10",
+			"REContractSubjectDescription": "Power Supply (ID 257u24)",
+			"REContractSubjectClass": "",
+			"REContractSubjectType": "YCO05",
+			"ExternalId": "",
+			"REAccountingObject": "KSA0000010101202",
+			"REAccountingObjectType": "KS"
+		}
+	],
+	"time": "2022-01-23T14:12:39.153497+09:00"
+}
