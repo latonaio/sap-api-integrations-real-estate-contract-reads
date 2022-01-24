@@ -24,18 +24,18 @@ https://api.sap.com/api/OP_API_RECONTRACT_0001/overview
 ## 本レポジトリ に 含まれる API名
   sap-api-integrations-real-estate-contract-reads には、次の API をコールするためのリソースが含まれています。  
 
-* A_REContract（不動産契約 - 契約）
-* A_REContrCondition（不動産契約 - 契約条件）
-* A_REContrNoticeTerm（不動産契約 - 契約通知期間）
-* A_REContrObjAssgmt（不動産契約 - 契約対象割当）
-* A_REContrNoticeTerm（不動産契約 - 契約通知期間）
-* A_REContrOrglAssgmtTerm（不動産契約 - 契約割当期間）
-* A_REContrReminderDate（不動産契約 - 契約リマインダー日付）
-* A_REContrReminderRule（不動産契約 - 契約リマインダールール）
-* A_REContrRenewalTerm（不動産契約 - 契約更新期間）
-* A_REContrRhythmTerm（不動産契約 - 契約リズム期間）
-* A_REContrValuationCondition（不動産契約 - 契約評価条件）
-* A_REContrValuation（不動産契約 - 契約評価）
+* A_REContract（SAP 不動産契約 - 契約）
+* A_REContrCondition（SAP 不動産契約 - 契約条件）
+* A_REContrNoticeTerm（SAP 不動産契約 - 契約通知期間）
+* A_REContrObjAssgmt（SAP 不動産契約 - 契約対象割当）
+* A_REContrPostingTerm（SAP 不動産契約 - 契約提示期間）
+* A_REContrOrglAssgmtTerm（SAP 不動産契約 - 契約割当期間）
+* A_REContrReminderDate（SAP 不動産契約 - 契約リマインダー日付）
+* A_REContrReminderRule（SAP 不動産契約 - 契約リマインダールール）
+* A_REContrRenewalTerm（SAP 不動産契約 - 契約更新期間）
+* A_REContrRhythmTerm（SAP 不動産契約 - 契約リズム期間）
+* A_REContrValuationCondition（SAP 不動産契約 - 契約評価条件）
+* A_REContrValuation（SAP 不動産契約 - 契約評価）
 
 ## API への 値入力条件 の 初期値
   sap-api-integrations-real-estate-contract-reads において、API への値入力条件の初期値は、入力ファイルレイアウトの種別毎に、次の通りとなっています。  
